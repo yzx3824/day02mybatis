@@ -1,0 +1,9 @@
+.idea
+target
+*.pdf
+axis.log
+day02mybatis.iml
+day02mybatis_01crud/target
+day02mybatis_01crud/*.iml
+day02mybatis_02dao/target
+day02mybatis_02dao/*.iml
